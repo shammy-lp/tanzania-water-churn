@@ -1,1 +1,1 @@
-# tanzania-water-churn
+# tanzania-water-pump
