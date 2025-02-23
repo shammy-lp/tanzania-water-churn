@@ -25,15 +25,14 @@ To ensure a high-quality model, the following preprocessing steps were performed
 **Feature Engineering** – Extracting useful information, such as the installation year difference.  
 **Encoding Categorical Variables** – Using **One-Hot Encoding** for categorical variables.  
 **Scaling Numerical Features** – Using **StandardScaler** for normalization.  
-**Train-Test Split** – Separating the dataset into **training (80%) and testing (20%)** datasets.  
-**Pipeline Implementation** – Automating preprocessing and model training using **scikit-learn Pipelines** to prevent data leakage.  
+**Train-Test Split** – Separating the dataset into **training (80%) and testing (20%)** datasets.    
 
 ---
 ## **Modeling Approach**
 We trained and evaluated multiple machine learning models to find the best classifier for predicting well conditions:
 1. **Decision Tree Classifier** – Baseline model for interpretability.
 2. **Random Forest Classifier** – Improved performance with feature importance analysis.
-3. **XGBoost Classifier** – Tuned model for higher accuracy and robustness.
+3. **LightXGM Boost Classifier** – Tuned model for higher accuracy and robustness.
 
 ### **Hyperparameter Tuning**
 Hyperparameters were optimized using  **RandomizedSearchCV** to improve model performance.
