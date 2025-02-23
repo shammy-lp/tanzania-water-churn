@@ -12,6 +12,8 @@ The dataset contains records of water points across Tanzania, including their op
 - **Non-functional** – The well is broken and needs full replacement.
 
 ---
+[Pump It Up: Data Mining the Water Table - Data Source](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/)
+
 ## **Dataset Description**
 The dataset includes various features that influence a well's condition, such as:
 - **Geographical Data:** Region, district, latitude, and longitude.
@@ -50,6 +52,11 @@ The models were evaluated using:
 **Feature Importance Analysis** showed that **extraction type, installation year, and management type** were the most significant factors influencing well conditions.
 
 ---
+## Presentation Link  
+
+You can access the presentation using the following link:  
+[View Presentation](https://docs.google.com/presentation/d/1Ta-SReXcQULarIdsDF2VLPYSlwcsOn9NZfKR2z_TuRk/edit#slide=id.p)
+
 ## **Results & Insights**
  **Most non-functional wells are older installations, indicating the need for better maintenance planning.**  
  **Certain pump types are more prone to failure, which can guide procurement decisions.**  
